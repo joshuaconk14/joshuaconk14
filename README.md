@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about data science, UI design, and content creation<br>I'm currently working on BravoTekk, an AI soccer app to coach players' technique<br>San Jose State University undergrad student<br>Also love soccer, tennis and dogs
+Passionate about data science, web development, and content creation<br>I'm currently working on BravoTekk, an AI soccer app to coach players' technique<br>San Jose State University undergrad student<br>Also love soccer, tennis and dogs
 
 
 ## 🌐 Socials:
