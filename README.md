@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate about data science, web development, and content creation<br>I'm currently working on BravoTekk, an AI soccer app to coach players' technique<br>San Jose State University undergrad student<br>Also love soccer, tennis and dogs
+Passionate about software engineering and content creation<br>I'm currently working on BravoBall, an AI soccer app to coach players' technique (project repository located at https://github.com/jordanconklin)<br>San Jose State University graduate<br>Also love soccer, tennis and dogs
 
 
 ## 🌐 Socials:
